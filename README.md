@@ -1,4 +1,4 @@
-# Project 1: Traffic Animation
+# Project: Traffic Animation
 
 * Author: Nabil Rahman
 * Class: CS121 Section 4
@@ -74,3 +74,7 @@ the cars animate.
 [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
 - I collected the images from Google Images.
 [Google Images](https://images.google.com/)
+
+## Demo
+
+https://youtu.be/_0NKErj8wGg
