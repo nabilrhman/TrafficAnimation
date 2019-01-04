@@ -4,6 +4,10 @@
 * Class: CS121 Section 4
 * Semester: Spring 2017
 
+## Demo
+
+[![Demo video](screenshot.jpg)](https://youtu.be/_0NKErj8wGg)
+
 ## Overview
 
 This Java application displays an animated scene consisting of several vehicles
@@ -75,6 +79,4 @@ the cars animate.
 - I collected the images from Google Images.
 [Google Images](https://images.google.com/)
 
-## Demo
 
-https://youtu.be/_0NKErj8wGg
